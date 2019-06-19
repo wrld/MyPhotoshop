@@ -14,5 +14,5 @@
 ## 3.保存的图片？
 
 主界面保存的图片是带有save后缀的，鼠标绘图中保存的图片名字为MouseDraw.jpg
-谢谢使用~
-                          Producted by GUOJiaxin ZJU
+### 谢谢使用~
+### Producted by GUOJiaxin ZJU
